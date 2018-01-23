@@ -1,2 +1,0 @@
-# simpleselenium
-just simple repository
